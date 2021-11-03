@@ -1,6 +1,6 @@
 Hello, I am Alexander Wang.
 
-Iam searching for a data science opening. I am very interested in machine learning and deep learning models.
+I am searching for a data science opening. I am very interested in machine learning and deep learning models.
 
 Currently pursuing a Master's of Science in Data Science with a specialization in Artificial Intelligence at Northwestern University.
 
